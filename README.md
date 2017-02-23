@@ -1,0 +1,2 @@
+# ngSpotify
+Simulación de Spotify
